@@ -1,5 +1,4 @@
-# econ445
-Group project for ECON 445
+# Econ445 Group project
 # Rivalry-Beyond-Campus:Identifying-Real-Estate-Opportunities-for-School-Districts-using-Machine-Learning
 
 ## Table of Content
